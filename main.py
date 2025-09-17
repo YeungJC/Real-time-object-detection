@@ -2,7 +2,8 @@ import cv2
 import time
 import os
 from PIL import Image
-path = '/Users/calvinyeung/Documents/Real-time-object-detection/Images'
+path = 'Images'
+
 
 
 # Open the default camera
